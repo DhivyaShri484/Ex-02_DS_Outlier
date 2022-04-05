@@ -82,7 +82,7 @@ df.to_csv('weight.csv', index=False)
 ![image](https://user-images.githubusercontent.com/94505585/161669926-674f10f4-f5b7-49dd-bfed-b4f2badfad67.png)
 # Z scores to detect outliers:
 ![image](https://user-images.githubusercontent.com/94505585/161669978-7b42cfb2-7133-4dc2-8eea-c2394b86a205.png)
-# Data set after removing outliers in weight using z scores and list manupilation:
+# Data set after removing outliers in weight using z scores and list manipulation:
 ![image](https://user-images.githubusercontent.com/94505585/161670051-785858ae-a6a0-435b-976d-5dc83d37db17.png)
 # Graph after removing outliers in weight:
 ![image](https://user-images.githubusercontent.com/94505585/161670088-8fd1c6d4-abe3-486d-838a-cfa2fdcc56fa.png)
