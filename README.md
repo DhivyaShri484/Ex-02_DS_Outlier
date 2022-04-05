@@ -69,7 +69,7 @@ df_new.boxplot()
 #final dataset
 df_new
 
-#saving data file
+#saving data   file
 df.to_csv('weight.csv', index=False)
 ```
 
