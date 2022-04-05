@@ -25,10 +25,9 @@ Step 8
 Save the final data set into the file.
 
 # PROGRAM
-'''
+```
 Developed by: Dhivya Shri. B
 Register number:212221230009
-'''
 
 import pandas as pd
 df=pd.read_csv('weight.csv')
@@ -72,6 +71,7 @@ df_new
 
 #saving data file
 df.to_csv('weight.csv', index=False)
+```
 
 # OUTPUT
 # Initial data set:
